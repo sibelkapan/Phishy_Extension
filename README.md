@@ -8,8 +8,8 @@ Idea of rules that project use came from this research. (Mohammad, Rami, McClusk
 For creating a Google Chrome extension check out https://developer.chrome.com/extensions/getstarted
 
 For use;
-In Google Chrome extensions (chrome://extensions/)
-Open developer mode
-Click Load unpacked extension...
-Select project folder and click OK button
-Open enable mode for Phishy extension
+In Google Chrome extensions (chrome://extensions/),
+Open developer mode,
+Click Load unpacked extension...,
+Select project folder and click OK button,
+Open enable mode for Phishy extension.
