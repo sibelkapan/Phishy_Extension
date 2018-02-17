@@ -1,5 +1,5 @@
 # Phishy_Extension
-This extension check a website phishy or not.
+This extension check a website phishing or not.
 
 Phishy is a Google Chrome extension.
 This project use URL of website to figure out website is phishing or not.
